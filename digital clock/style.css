@@ -1,0 +1,22 @@
+.wrapper {
+    font-size: 175px;
+    width: 1050px;
+    margin: 200px 100px auto;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    position: relative;
+    background: linear-gradient(135deg, #14ffe9, #ffeb3b, #ff00e0);
+    border-radius: 10px;
+    cursor: default;
+    text-shadow: 4px 4px #cecbcb;
+    box-shadow: 10px 10px 5px rgb(56, 130, 226);
+       
+}
+body{
+    
+        background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+      }
+
+  
+
